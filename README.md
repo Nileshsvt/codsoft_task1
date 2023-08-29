@@ -1,2 +1,2 @@
 # codsoft_task1
-Task 1
+It is Task 1 for my web development internship offered by Codsoft
